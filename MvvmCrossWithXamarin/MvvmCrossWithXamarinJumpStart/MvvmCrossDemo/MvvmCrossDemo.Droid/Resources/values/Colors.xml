@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <color name="colorPrimary">#24B780</color>
+  <color name="colorPrimaryDark">#2B5799</color>
+  <color name="colorAccent">#24B780</color>
+  <color name="colorControlHighlight">#e57373</color>
+  <color name="colorControlNormal">#24B780</color>
+  <color name="splashActivityBackground">#ffffff</color>
+  <color name="activityBackgroundColor">#ffffff</color>
+  <color name="fragmentBackgroundColor">#ffffff</color>
+  <color name="whiteTextColor">#ffffff</color>
+  <color name="blackTextColor">#000000</color>
+  <color name="toolbarColor">#24B780</color>
+  <color name="blackColorText">#000000</color>
+</resources>

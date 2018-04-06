@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">MvvmCrossDemo.Droid</string>
+  <string name="HomeFragmentTitle">Home Fragment</string>
+  <string name="DetailsFragmentTitle">Details Fragment</string>
+  <string name="DetailsScreenText">Congratulations! You found secret ingredient!</string>
+</resources>
