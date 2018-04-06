@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_iOS_CognitiveServices", "Xamarin_iOS_CognitiveServices\Xamarin_iOS_CognitiveServices.csproj", "{D193519F-D534-485D-BF72-336DEC951A48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D193519F-D534-485D-BF72-336DEC951A48}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D193519F-D534-485D-BF72-336DEC951A48}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D193519F-D534-485D-BF72-336DEC951A48}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D193519F-D534-485D-BF72-336DEC951A48}.Release|iPhone.Build.0 = Release|iPhone
+		{D193519F-D534-485D-BF72-336DEC951A48}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D193519F-D534-485D-BF72-336DEC951A48}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D193519F-D534-485D-BF72-336DEC951A48}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D193519F-D534-485D-BF72-336DEC951A48}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
