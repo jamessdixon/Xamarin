@@ -12,10 +12,11 @@ namespace Auth0XamarinForms.Pages
 {
 	public partial class MainPage : ContentPage
 	{
-		public MainPage(string greetingFromAzureFunction)
+		public MainPage(string greetingFromAzureFunction, AuthenticationResult authenticationResult)
 		{
 			InitializeComponent();
             GreetingLabel.Text = greetingFromAzureFunction;
+            UserImage.Source = authenticationResult.UserClaims.FirstOrDefault(c => c.Type == "picture")?.Value;
         }
     }
 }

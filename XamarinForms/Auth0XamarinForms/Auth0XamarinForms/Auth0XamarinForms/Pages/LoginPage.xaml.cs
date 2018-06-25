@@ -37,7 +37,7 @@ namespace Auth0XamarinForms.Core.Pages
                 var azureFunctionDataService = DependencyService.Get<IAzureFunctionDataService>();
                 var dataFromAzureFunction = await azureFunctionDataService.GetGreeting(authenticationResult);
                 if (!string.IsNullOrEmpty(dataFromAzureFunction))
-                    Navigation.PushAsync(new MainPage(dataFromAzureFunction));
+                    Navigation.PushAsync(new MainPage(dataFromAzureFunction, authenticationResult));
                 else
                     MainPageLabel.Text = "Cannot retrieve data from Azure Function. Please check configuration";
             }
