@@ -14,8 +14,8 @@ namespace Auth0XamarinForms.Droid
     [IntentFilter(
     new[] { Intent.ActionView },
     Categories = new[] { Intent.CategoryDefault, Intent.CategoryBrowsable },
-    DataScheme = "com.devisland.Auth0XamarinForms",
-    DataHost = "devisland.eu.auth0.com",
+    DataScheme = "", // App package name, ex: com.devisland.Auth0XamarinForms
+    DataHost = "", // Auth0 domain, ex: devisland.eu.auth0.com
     DataPathPrefix = "/android/YOUR_ANDROID_PACKAGE_NAME/callback")]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
