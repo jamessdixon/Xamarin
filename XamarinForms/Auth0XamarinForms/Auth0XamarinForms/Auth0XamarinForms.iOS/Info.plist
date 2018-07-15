@@ -43,7 +43,7 @@
         <string>Auth0</string>
         <key>CFBundleURLSchemes</key>
         <array>
-            <string>com.devisland.Auth0XamarinForms</string>
+            <string>YOUR_APPLICATION_PACKAGE_IDENTIFIER</string>
         </array>
     </dict>
 </array>
