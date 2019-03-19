@@ -6,6 +6,6 @@ namespace Auth0XamarinForms.Core.Config
 {
     public static class AzureConfig
     {
-        public const string AzureFunctionUrl = ""; // Azure Function URL from Azure Portal. ex: https://auth0securedfunctionapp.azurewebsites.net/api/Auth0AzureFunction
+        public const string AzureFunctionUrl = "https://auth0securedfunctionapp.azurewebsites.net/api/Auth0AzureFunction"; // Azure Function URL from Azure Portal. ex: https://auth0securedfunctionapp.azurewebsites.net/api/Auth0AzureFunction
     }
 }

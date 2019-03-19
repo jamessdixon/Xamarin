@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0XamarinForms.iOS", "Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0XamarinForms.UWP", "Auth0XamarinForms\Auth0XamarinForms.UWP\Auth0XamarinForms.UWP.csproj", "{D6BB0B79-39EA-4075-AA87-C9FBAC80335D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth0XamarinForms.Core", "Auth0XamarinForms\Auth0XamarinForms\Auth0XamarinForms.Core.csproj", "{7E617412-154A-490F-8248-DC4F0276043C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0XamarinForms.Core", "Auth0XamarinForms\Auth0XamarinForms\Auth0XamarinForms.Core.csproj", "{7E617412-154A-490F-8248-DC4F0276043C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
